@@ -1,0 +1,13 @@
+.word{
+    width:auto;
+    height: 60px;
+    background-color: #4A5567;
+    color:#97A3B6;
+    font-size: 32px;
+    letter-spacing: 20px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    padding: 0px 20px ;
+}

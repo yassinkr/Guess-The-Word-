@@ -1,0 +1,17 @@
+.mistake{
+    width: auto;
+    height: 30px;
+    font-size: 16px;
+    color: #4A5567;
+    display: flex;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mistakes{
+    font-size: 16px;
+    color: #97A3B6;
+    width:auto;
+    height: auto;
+    margin-left: 10px;
+}
